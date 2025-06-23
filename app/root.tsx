@@ -28,7 +28,10 @@ import { registerLicense } from "@syncfusion/ej2-base";
 
 registerLicense(import.meta.env.VITE_SYNC_FUSION_KEY);
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 09540ad86d0776a901285f47246f3c9f0fe44675
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">

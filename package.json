@@ -11,8 +11,11 @@
   "dependencies": {
     "@react-router/node": "^7.5.3",
     "@react-router/serve": "^7.5.3",
+<<<<<<< HEAD
     "@sentry/react": "^9.30.0",
     "@sentry/react-router": "^9.30.0",
+=======
+>>>>>>> 09540ad86d0776a901285f47246f3c9f0fe44675
     "@syncfusion/ej2-base": "^29.2.11",
     "@syncfusion/ej2-react-buttons": "^29.2.5",
     "@syncfusion/ej2-react-charts": "^29.2.11",
